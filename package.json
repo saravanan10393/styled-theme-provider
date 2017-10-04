@@ -1,0 +1,32 @@
+{
+  "name": "styled-theme-provider",
+  "version": "1.0.1",
+  "description": "Theme implementation extracted out from styled-component",
+  "main": "lib/index.js",
+  "scripts": {
+    "flow": "flow",
+    "build": "babel src/ -d lib/",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saravanan Ramupillai",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
+    "flow-bin": "^0.56.0"
+  },
+  "dependencies": {
+    "hoist-non-react-statics": "^2.3.1",
+    "is-function": "^1.0.1",
+    "is-plain-object": "^2.0.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
