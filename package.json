@@ -1,6 +1,6 @@
 {
   "name": "styled-theme-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Theme implementation extracted out from styled-component",
   "main": "lib/index.js",
   "scripts": {
