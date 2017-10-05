@@ -11,6 +11,10 @@
   },
   "author": "Saravanan Ramupillai",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saravanan10393/styled-theme-provider"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
@@ -28,5 +32,10 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
-  }
+  },
+  "keywords": [
+    "reat-theme",
+    "react",
+    "styled-component"
+  ]
 }
