@@ -8,4 +8,4 @@ Easy way add to theme to your projects.
 >2. Follow the same way as description [here](https://www.styled-components.com/docs/advanced#theming)
 
 
-> here is small [demo](https://codesandbox.io/s/kmvnl7ql5r) app
+> here is small [demo](https://codesandbox.io/s/94k48v7zxr) app
